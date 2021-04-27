@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+#section {
+    background-color: #FFF5E8;
+    list-style-image: url('../kepek/jel.png');
+}
+#footer {
+    color: #FFEBD0;
+}
+img {
+    max-width: 300px;
+    border: 5px solid #FFEBD0;
+    background-color: #FFFFFF;
+    margin: 5px
+}
+.jankele img {
+    float: right
+}
+.buso img {
+    float: left
+}
+#header {
+	background-image: url('../kepek/maglya.jpg');
+}
+li {
+    margin: 0 20px 0 20px
+}
